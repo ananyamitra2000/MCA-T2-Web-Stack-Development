@@ -18,3 +18,4 @@ e.g. : https://github.com/[username]/[repository name].git
 $ git remote
 $ git push -u origin master 
 [NOTE: first time it will ask you to sign in using your credentials]
+[NOTE: pushing to github takes time and depends upon your internet speed and the file size]
