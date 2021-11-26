@@ -1,0 +1,20 @@
+$ git config --global user.name "[enter your username here]"
+$ git config --global user.email "[enter your email here]"
+$ git config --list
+$ git init
+$ git touch file1.txt file2.txt
+$ nano file1.txt
+$ nano file2.txt
+$ git status
+$ git add file1.txt
+$ git status
+$ git add file2.txt
+$ git status
+$ git commit -m "[insert commit message here]"
+$ git status
+$ git remote add origin [insert https link here]    
+e.g. : https://github.com/[username]/[repository name].git
+
+$ git remote
+$ git push -u origin master 
+[NOTE: first time it will ask you to sign in using your credentials]
